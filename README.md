@@ -1,2 +1,2 @@
-# taller
-Taller git
+# PruebaLp2
+Taller de github
