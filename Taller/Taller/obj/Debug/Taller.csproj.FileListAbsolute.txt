@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\alulab14.INF\taller\Taller\Taller\bin\Debug\Taller.exe.config
 C:\Users\alulab14.INF\taller\Taller\Taller\bin\Debug\Taller.exe
 C:\Users\alulab14.INF\taller\Taller\Taller\bin\Debug\Taller.pdb
@@ -6,3 +7,13 @@ C:\Users\alulab14.INF\taller\Taller\Taller\obj\Debug\Taller.Properties.Resources
 C:\Users\alulab14.INF\taller\Taller\Taller\obj\Debug\Taller.csproj.GenerateResource.Cache
 C:\Users\alulab14.INF\taller\Taller\Taller\obj\Debug\Taller.exe
 C:\Users\alulab14.INF\taller\Taller\Taller\obj\Debug\Taller.pdb
+=======
+C:\Users\alulab14\Documents\Taller\taller\Taller\Taller\bin\Debug\Taller.exe.config
+C:\Users\alulab14\Documents\Taller\taller\Taller\Taller\bin\Debug\Taller.exe
+C:\Users\alulab14\Documents\Taller\taller\Taller\Taller\bin\Debug\Taller.pdb
+C:\Users\alulab14\Documents\Taller\taller\Taller\Taller\obj\Debug\Taller.csprojResolveAssemblyReference.cache
+C:\Users\alulab14\Documents\Taller\taller\Taller\Taller\obj\Debug\Taller.Properties.Resources.resources
+C:\Users\alulab14\Documents\Taller\taller\Taller\Taller\obj\Debug\Taller.csproj.GenerateResource.Cache
+C:\Users\alulab14\Documents\Taller\taller\Taller\Taller\obj\Debug\Taller.exe
+C:\Users\alulab14\Documents\Taller\taller\Taller\Taller\obj\Debug\Taller.pdb
+>>>>>>> 59d04c66d4279d2bd93520b0e042c4339fba32f4

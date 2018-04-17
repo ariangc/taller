@@ -12,10 +12,15 @@ namespace Taller
         /// Punto de entrada principal para la aplicación.
         /// </summary>
         [STAThread]
+        static void fullcho()
+        {
+            System.Console.WriteLine("Yoni Pacheco");
+        }
         static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+<<<<<<< HEAD
             Application.Run(new Form1());
             int x = sumar(4, 3);
             System.Console.WriteLine(x);
@@ -25,6 +30,12 @@ namespace Taller
         {
             System.Console.WriteLine("Arian!");
             return a + b;
+=======
+            // Application.Run(new Form1());
+            fullcho();
+            
+>>>>>>> 59d04c66d4279d2bd93520b0e042c4339fba32f4
         }
+        
     }
 }
